@@ -21797,7 +21797,7 @@
             "5Cm45Z6QPgJLBtpJapSFvcvzUmAW4PfmAsqqQvtXcqAHhfq1",
             {
               "grandpa": "5G1LCnmoNuvZan28WJBH1Sxta1FTJxGquy9fRYbbm6xMYi7J",
-              "aura": "5DwmAGvL8yaHFEm4NrnK8n6Wxocx83Qiy5du1MbRzCt7Nqcj",
+              "babe": "5DwmAGvL8yaHFEm4NrnK8n6Wxocx83Qiy5du1MbRzCt7Nqcj",
               "im_online": "5DwmAGvL8yaHFEm4NrnK8n6Wxocx83Qiy5du1MbRzCt7Nqcj",
               "authority_discovery": "5EBzY8KtohcVBomjG4MyrMj9ZN6WoEkbAUYMbKTi1ASy66Gp"
             }
@@ -21806,7 +21806,7 @@
             "5EeE7LPWXqRLBex9n6ZwqL7pwiqWgqLY4b7jLEqubfi3SNGk",
             {
               "grandpa": "5HYbX7zmVKbNHR8w8Lbc31UAMtBjjyfeGAK6MNThG9SicznB",
-              "aura": "5FBSURgNK7jPkt24bSJWFqSmizLVTuep4taaezx3YFBnJzKJ",
+              "babe": "5FBSURgNK7jPkt24bSJWFqSmizLVTuep4taaezx3YFBnJzKJ",
               "im_online": "5FBSURgNK7jPkt24bSJWFqSmizLVTuep4taaezx3YFBnJzKJ",
               "authority_discovery": "5HpaES3awNEbzxZnQHJtaJBfqVv6ZcgGbTgpXXvSgEHKKgTA"
             }
@@ -21815,7 +21815,7 @@
             "5H6XVoSMb1karBYGf8G1VfL2AwfaPrWjy51VjFtKBKiXSr9L",
             {
               "grandpa": "5F6fxB8LPBXYo7n1Jf7S81JJEdPXY5CZQsaL3FPqZDunAuXH",
-              "aura": "5FWr926Yqmt17vABPddJyX925X7g4ngJKbXkFsZF7RTJCxKs",
+              "babe": "5FWr926Yqmt17vABPddJyX925X7g4ngJKbXkFsZF7RTJCxKs",
               "im_online": "5FWr926Yqmt17vABPddJyX925X7g4ngJKbXkFsZF7RTJCxKs",
               "authority_discovery": "5GLNbwQiwc4K3hiijroFafMjdVS1G8Yfapf1VdD1ptMyK2P4"
             }
@@ -21824,7 +21824,7 @@
             "5FTuGCrkZMkmmByA3EUyuLokFat7WaVgYTxSSLLSRXFH2Na8",
             {
               "grandpa": "5FX754YGBq12zbrxPdr7b96DerYQN5wBcWRZhz43M6JJ7Yrn",
-              "aura": "5CGyoy2eMFYaKKhMLhXuuAaqnBg75v7YVppyEHdcpj534NuY",
+              "babe": "5CGyoy2eMFYaKKhMLhXuuAaqnBg75v7YVppyEHdcpj534NuY",
               "im_online": "5CGyoy2eMFYaKKhMLhXuuAaqnBg75v7YVppyEHdcpj534NuY",
               "authority_discovery": "5FHa4wJj6b91iXrRH37b3Vy6kW3t9j6gRhduzihTtqwEV3Wc"
             }
@@ -21833,7 +21833,7 @@
             "5DesxfiBqfYp2QgQoZyeFaTmyLwvXPKnpNKdSQ1brZCNsLke",
             {
               "grandpa": "5CG8xTcS6ezpAYk9nqY2u1o9nBgSJUQsLBKHNxmdgo8hp4YY",
-              "aura": "5EkSJHQYANf3em5ekJaS7Cvn7TZGLdmX6EowZXwL9KmXSQy6",
+              "babe": "5EkSJHQYANf3em5ekJaS7Cvn7TZGLdmX6EowZXwL9KmXSQy6",
               "im_online": "5EkSJHQYANf3em5ekJaS7Cvn7TZGLdmX6EowZXwL9KmXSQy6",
               "authority_discovery": "5FqB59VKM1zmzvdTrVV86iBztS9c2Vnro3MwD9KmgnjW6kB3"
             }
@@ -21842,7 +21842,7 @@
             "5DFuVc1FB9PZRJR51x2ss6WDbyXTFEbiMrAMEwuE1wVexx1h",
             {
               "grandpa": "5FXrzAt8C6s8konBf8BTCkNpvgZtgMfcLzEq7rxBA9KbQVyd",
-              "aura": "5F26AtKiBJiwMoUgq5M32mzAaXXHfSKyzQtW8fRdHe7dVQQQ",
+              "babe": "5F26AtKiBJiwMoUgq5M32mzAaXXHfSKyzQtW8fRdHe7dVQQQ",
               "im_online": "5F26AtKiBJiwMoUgq5M32mzAaXXHfSKyzQtW8fRdHe7dVQQQ",
               "authority_discovery": "5GP644Y7PS6HvxjkNioTExoKwcXU5m6BUp9W2D3VZx1djsFX"
             }
@@ -21851,7 +21851,7 @@
             "5GmbKsQGZmKgvoAjqgm5v9tP8kpUSVFWuZqBz9kgbfVbaV4b",
             {
               "grandpa": "5D982KNVdYHaefG9NxsVnKysDGMQd24B18GkqeGcZYmGEi7d",
-              "aura": "5DSdVMH9LLJZazwE2wKytMBb8tnH4dAWL6h7kSao46ePMkQ1",
+              "babe": "5DSdVMH9LLJZazwE2wKytMBb8tnH4dAWL6h7kSao46ePMkQ1",
               "im_online": "5DSdVMH9LLJZazwE2wKytMBb8tnH4dAWL6h7kSao46ePMkQ1",
               "authority_discovery": "5DqfKoCmMK2NhnuQNXjf7j8AGc2WFrcYaSjxZST58eXAgCMf"
             }
@@ -21860,7 +21860,7 @@
             "5CXFiRFAKJxLyKqYAtrtfG2QS8h1zxczqCFTqhawreZasri6",
             {
               "grandpa": "5Fs7wjVeGS7sPaeBPhDRvw3TkjB8CnVVVaozLjVZxQ1z4WYc",
-              "aura": "5CddwhVFGKSWquc6CESCq7hNeYZfvdCPsfLNNcjNiYBw8pJR",
+              "babe": "5CddwhVFGKSWquc6CESCq7hNeYZfvdCPsfLNNcjNiYBw8pJR",
               "im_online": "5CddwhVFGKSWquc6CESCq7hNeYZfvdCPsfLNNcjNiYBw8pJR",
               "authority_discovery": "5DMRQgAbhimH3yc9sAVRJferRDpH7mpag45NAF9MBhfCsyvv"
             }
@@ -21869,7 +21869,7 @@
             "5DqczjVey989y4pH4qTUtWZdtYJrGv7CjAWkXzk9i5QjUfpq",
             {
               "grandpa": "5H11ZrRNEDEstiZSVWDqKQNyStPkRMmnrNNJTZZLazB1ynez",
-              "aura": "5GwBMtHPXmQ55Q7aLQrcE2p3qaRCEU4br34dXbLcasJre5RT",
+              "babe": "5GwBMtHPXmQ55Q7aLQrcE2p3qaRCEU4br34dXbLcasJre5RT",
               "im_online": "5GwBMtHPXmQ55Q7aLQrcE2p3qaRCEU4br34dXbLcasJre5RT",
               "authority_discovery": "5H8ofXX64UVbwx1sGPhhHCSXFuNyBhCnDGqTbCK5tcysWrHV"
             }
@@ -21878,7 +21878,7 @@
             "5GjKSEHt4MQsgSY2wxh9n5H3ZDNBb82L2PYPXLg6sf29mg5j",
             {
               "grandpa": "5FrWPF7c3BX7WSHzWKHSoH8kbfc7ZQTNXj7vJp3Akwga8KiB",
-              "aura": "5Dwsfso7enWY9YkP8DTrHcCJUbQtqbBBHLiQi4MRPxDmUVE9",
+              "babe": "5Dwsfso7enWY9YkP8DTrHcCJUbQtqbBBHLiQi4MRPxDmUVE9",
               "im_online": "5Dwsfso7enWY9YkP8DTrHcCJUbQtqbBBHLiQi4MRPxDmUVE9",
               "authority_discovery": "5Dt128Ymfirn5fMuvmqLcMz7ABBnWuPjxPtkCPDrGacZy1vu"
             }

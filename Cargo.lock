@@ -1450,6 +1450,7 @@ dependencies = [
  "sp-blockchain",
  "sp-consensus",
  "sp-consensus-aura",
+ "sp-consensus-babe",
  "sp-core",
  "sp-finality-grandpa",
  "sp-inherents",
@@ -1577,9 +1578,9 @@ dependencies = [
  "frame-system-rpc-runtime-api",
  "hex-literal",
  "integer-sqrt",
- "pallet-aura",
  "pallet-authority-discovery",
  "pallet-authorship",
+ "pallet-babe",
  "pallet-balances",
  "pallet-bounties",
  "pallet-collective",
@@ -1622,7 +1623,7 @@ dependencies = [
  "sp-application-crypto",
  "sp-authority-discovery",
  "sp-block-builder",
- "sp-consensus-aura",
+ "sp-consensus-babe",
  "sp-core",
  "sp-inherents",
  "sp-io",
@@ -4438,25 +4439,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "pallet-aura"
-version = "2.0.1"
-source = "git+https://github.com/paritytech/substrate.git?rev=b2a50198d3fa71959c77d22edb5fdb8c1e74006c#b2a50198d3fa71959c77d22edb5fdb8c1e74006c"
-dependencies = [
- "frame-support",
- "frame-system",
- "pallet-session",
- "pallet-timestamp",
- "parity-scale-codec",
- "serde",
- "sp-application-crypto",
- "sp-consensus-aura",
- "sp-inherents",
- "sp-runtime",
- "sp-std",
- "sp-timestamp",
-]
-
-[[package]]
 name = "pallet-authority-discovery"
 version = "2.0.1"
 source = "git+https://github.com/paritytech/substrate.git?rev=b2a50198d3fa71959c77d22edb5fdb8c1e74006c#b2a50198d3fa71959c77d22edb5fdb8c1e74006c"
@@ -4485,6 +4467,31 @@ dependencies = [
  "sp-inherents",
  "sp-runtime",
  "sp-std",
+]
+
+[[package]]
+name = "pallet-babe"
+version = "2.0.1"
+source = "git+https://github.com/paritytech/substrate.git?rev=b2a50198d3fa71959c77d22edb5fdb8c1e74006c#b2a50198d3fa71959c77d22edb5fdb8c1e74006c"
+dependencies = [
+ "frame-benchmarking",
+ "frame-support",
+ "frame-system",
+ "pallet-authorship",
+ "pallet-session",
+ "pallet-timestamp",
+ "parity-scale-codec",
+ "serde",
+ "sp-application-crypto",
+ "sp-consensus-babe",
+ "sp-consensus-vrf",
+ "sp-inherents",
+ "sp-io",
+ "sp-runtime",
+ "sp-session",
+ "sp-staking",
+ "sp-std",
+ "sp-timestamp",
 ]
 
 [[package]]
@@ -9812,3 +9819,8 @@ dependencies = [
  "itertools 0.9.0",
  "libc",
 ]
+
+[[patch.unused]]
+name = "pallet-aura"
+version = "2.0.1"
+source = "git+https://github.com/paritytech/substrate.git?rev=b2a50198d3fa71959c77d22edb5fdb8c1e74006c#b2a50198d3fa71959c77d22edb5fdb8c1e74006c"
